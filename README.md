@@ -6,7 +6,7 @@
 
 From Guntur, Andhra Pradesh, India
 
-##Skills
+## Skills
 
 ⚛ React | 🌀 TypeScript | 📡 GraphQL - 🧿 NodeJS - 🚄 Express JS| 🐍 Python | 👢 Bootstrap | 💪 FlexBox | 💾 MongoDB - SQLite | 🕸 JS - HTML -CSS 💻
 
