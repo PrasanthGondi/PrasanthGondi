@@ -10,4 +10,5 @@ From Guntur, Andhra Pradesh, India
 
 🔼 Next.js | 📱 React Native | ⚛ React | 🌀 TypeScript | 📡 GraphQL - 🧿 NodeJS - 🚄 Express JS| 🐍 Python | Tailwind CSS | 👢 Bootstrap | 💪 FlexBox | 💾 MongoDB - SQLite | 🕸 JavaScript - HTML -CSS 💻
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://prasanthgondiportfolio.netlify.app/)  
+
+[💼 PortFolio](https://prasanthgondiportfolio.netlify.app/)  
