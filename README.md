@@ -4,7 +4,7 @@
 ## Full Stack Web Developer 
 
 
-From Guntur, Andhra Pradesh, India
+From South Eastern Coast of India
 
 ## Skills
 
