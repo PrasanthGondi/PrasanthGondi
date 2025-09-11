@@ -4,7 +4,7 @@
 ## Full Stack Web Developer 
 
 
-From South Eastern Coast of India
+From the South-Eastern Coast of India ( Guntur, Andhra Pradesh )
 
 ## Skills
 
@@ -12,7 +12,7 @@ From South Eastern Coast of India
 
 ## PortFolio
 
-[💼 PortFolio](https://prasanthgondiportfolio.netlify.app/)  
+[💼 PortFolio](https://prasanth-gondi-portfolio.vercel.app/)  
 
 ## Contact
 
